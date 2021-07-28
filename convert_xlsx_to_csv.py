@@ -4,7 +4,7 @@
 import pandas as pd
 import os
 
-dirname = 'C:/Users/gonzaa14/OneDrive - Southern California Edison/Scripts/'
+dirname = 'File Path'
 dir = os.fsencode(dirname)
 
 for currentfile in os.listdir(dir):
